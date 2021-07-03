@@ -1,0 +1,24 @@
+
+/********Maze********/
+
+.maze-value {
+    display: flex;
+    min-width: 25px;
+    font-size: 28px;
+    font-weight: 400;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+}
+
+/***********Rate**********/
+
+.course-value {
+    display: flex;
+    min-width: 25px;
+    font-size: 28px;
+    font-weight: 300;
+    margin: 20px auto;
+    justify-content: center;
+    align-items: center;
+}
